@@ -19,11 +19,11 @@ The dashboard enables travelers and analysts to evaluate **price drivers**, iden
 
 ###### 🏠 Home View
 
-!\[Home Overview](./dashboard-home-overview.png)
+![Home Overview](./dashboard-home-overview.png)
 
 📋 Grid View
 
-!\[Grid Overview](./dashboard-grid-overview.png)
+![Grid Overview](./dashboard-grid-overview.png)
 
 \---
 
